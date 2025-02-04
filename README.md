@@ -85,11 +85,11 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/gubbih/count.svg?"  />
 </div>
-
+-->
 ###
 
 <!--<img src="https://raw.githubusercontent.com/gubbih/gubbih/output/snake.svg" alt="Snake animation" /> -->
