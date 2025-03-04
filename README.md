@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 og god allready<br>📚 I'm currently learning Python and angular<br>🎯 Goals: Have a good life<br>🎲 Fun fact: i made a screaming plant with my Arduino</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning TailWind and React<br>🎯 Goals: Have a good life<br>🎲 Fun fact: i made a screaming plant with my Arduino</p>
 
 ###
 
